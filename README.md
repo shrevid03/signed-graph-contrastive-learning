@@ -204,8 +204,9 @@ A manuscript based on this work is currently in preparation.
 
 ## Contributors
 
+
+- **Shreya Vidyadhar**
 - Nilay Srivastava
-- Shreya Vidyadhar
 - Aradhya Dixit
 - Shruti Chauhan
 
